@@ -1,5 +1,8 @@
 # NYC School Data Analysis & ETL Pipeline
 
+## Project Preview
+![Schools per Borough](assets/schools_per_borough.png)
+
 ## 🚀 Project Overview
 This project is a comprehensive end-to-end data analysis and engineering initiative using NYC Open Data. It covers the full lifecycle of data—from initial exploratory analysis to building a robust Python-driven ETL pipeline and performing relational database audits.
 
