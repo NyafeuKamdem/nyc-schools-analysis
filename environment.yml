@@ -1,0 +1,16 @@
+name: nyc-schools-analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - seaborn
+  - sqlalchemy
+  - psycopg2
+  - matplotlib
+  - ipykernel
+  - pip
+  - pip:
+    - psycopg2-binary
